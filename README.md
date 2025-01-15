@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="images/logos/t9_logo.png" height="85"><br>
-</p>
-
 ## About Me
 I've been engaged in software development since the mid-1980s. For the first 13 years of my career, I worked as a professional software engineer, with a primary focus on Java. In 2011, my career shifted towards technology leadership, where I discovered a passion for leading high-performing software development teams using lean methodologies.
 
