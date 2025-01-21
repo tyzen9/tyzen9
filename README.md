@@ -8,6 +8,19 @@ Catchup with me on [LinkedIn](https://www.linkedin.com/in/steventheisen/), drop 
 ## Home Assistant
 Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. 
 It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
-- [Home Assistant Wiki](https://github.com/tyzen9/homeassistant-config/wiki#-home-assistant-wiki) - Notes on my experience with Home Assistant
+- [Wiki - Home Assistant](https://github.com/tyzen9/homeassistant-config/wiki#-home-assistant-wiki) - Notes on my experience with Home Assistant
 - [Home Assistant Configuration](https://github.com/tyzen9/homeassistant-config) - Deep dive into the configuration that makes my Home Assistant instance function
 - [Adding Influx and Grafana](https://github.com/tyzen9/docker-ha-influxdb-grafana) - A Docker container for easily long term statistics support, and beautiful dashboards 
+
+## Servarr
+Servarr is an ecosystem of open-source applications designed for automating and managing personal media libraries. 
+I find this ecosystem fascinating, and have enjoy experimenting this technology. 
+
+> [!CAUTION]
+> Warning: Downloading media from torrents in some cases can be illegal and may result in copyright infringement charges. 
+> Proceed with caution as you could face legal consequences. 
+> The content of this project is intended for experimentation and educational purposes only. Use at your own risk.
+
+- [Wiki - PIA Servarr](https://github.com/tyzen9/docker-pia-servarr/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker Stack on a Linux host.
+- [PIA Servarr](https://github.com/tyzen9/docker-pia-servarr) - A Docker Stack for leveraging Servarr services behind an automated [Private Internet Access](https://www.privateinternetaccess.com/) (PIA) VPN service.
+- [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
