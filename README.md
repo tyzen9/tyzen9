@@ -5,6 +5,9 @@ I've always maintained my enthusiasm for software engineering, and since 2011, I
 
 Catchup with me on [LinkedIn](https://www.linkedin.com/in/steventheisen/), drop me a note in the [Home Assistant Community](https://community.home-assistant.io/), or chat with me on [Discord](https://discordapp.com/users/1068267562988740689). I look forward to hearing from you.
 
+Below, you will find links to help navigate this GitHub profile. 
+In addition, a top level [tyzen9 notes](https://github.com/tyzen9/tyzen9) wiki is available that contains a collection of technical notes and basic solutions to common problems.
+
 ## Home Assistant
 Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. 
 It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
