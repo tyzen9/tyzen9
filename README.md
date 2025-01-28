@@ -25,5 +25,6 @@ I find this ecosystem fascinating, and have enjoy experimenting this technology.
 > The content of this project is intended for experimentation and educational purposes only. Use at your own risk.
 
 - [Wiki - PIA Servarr](https://github.com/tyzen9/docker-pia-servarr/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker Stack on a Linux host.
-- [PIA Servarr](https://github.com/tyzen9/docker-pia-servarr) - A Docker Stack for leveraging Servarr services behind an automated [Private Internet Access](https://www.privateinternetaccess.com/) (PIA) VPN service.
+- [docker-pia-servarr](https://github.com/tyzen9/docker-pia-servarr) - A Docker Stack for leveraging Servarr services behind an automated [Private Internet Access](https://www.privateinternetaccess.com/) (PIA) VPN service.
 - [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
+- [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - A simple image that updates an established myanonamouse.net dynamic seedbox IP.
