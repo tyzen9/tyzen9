@@ -14,14 +14,16 @@ It is one of my most time consuming passions and hobby, and experience I am happ
 - [Home Assistant Configuration](https://github.com/tyzen9/homeassistant-config) - The high-level configuration behind my Home Assistant instance
 - [Adding Influx and Grafana](https://github.com/tyzen9/docker-ha-influxdb-grafana) - A Docker Stack for easily collecting long term HA statistics, and creating beautiful dashboards 
 
-# Servarr
+# Servarr Seedbox
 Servarr is an ecosystem of open-source applications designed for automating and managing personal media libraries. 
-I find this ecosystem fascinating, and have enjoyed experimenting this technology. 
+I find this ecosystem fascinating, and have enjoyed experimenting with this technology. 
 
 > [!CAUTION]
 > Warning: Downloading media from torrents in some cases can be illegal and may result in copyright infringement charges. 
 > Proceed with caution as you could face legal consequences. 
-> The content of this project is intended for experimentation and educational purposes only. Use at your own risk.
+
+> [!IMPORTANT]
+> Disclaimer: The projects below are intended for experimentation and educational purposes only. Use at your own risk.
 
 - [Wiki - Servarr Seedbox](https://github.com/tyzen9/docker-servarr-seedbox/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker Stack on a Linux host.
 - [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker Stack for Servarr services, and a local or remote seedbox behind an automated Private Internet Access ([PIA])(https://www.privateinternetaccess.com/) VPN service.
