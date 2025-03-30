@@ -7,6 +7,10 @@ Catchup with me on [LinkedIn](https://www.linkedin.com/in/steventheisen/), drop 
 
 Below, you will find links to help navigate my GitHub profile public repositories. 
 
+# Solution Engineering
+[docker-plex-nvidia](https://github.com/tyzen9/docker-plex-nvidia) - A docker container for Plex that leverages an Nvidia GPU for transcoding
+[docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A docker container for setting up a Piwigo open source photo management website.
+
 # Home Assistant
 Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. 
 It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
