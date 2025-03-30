@@ -14,6 +14,7 @@ I'm passionate about Docker Solution Engineering, where I take pre-built Docker 
 - [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A Docker container for setting up a Piwigo open source photo management website.
 - [docker-diun](https://github.com/tyzen9/docker-diun) - A Docker container for receiving alerts when a docker image is updated
 - [docker-tautulli](https://github.com/tyzen9/docker-tautulli) - A Docker container for monitoring and tracking activity on a Plex server
+- [docker-nginx-proxy-manager](https://github.com/tyzen9/docker-nginx-proxy-manager) - A Docker stack for Nginx Proxy Manager and a Postgresql database
 
 # Home Assistant
 Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
