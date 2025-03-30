@@ -18,7 +18,7 @@ Home Assistant is free and open-source software for home automation designed to 
 
 - [Wiki - Home Assistant](https://github.com/tyzen9/homeassistant-config/wiki#-home-assistant-wiki) - Notes on my experience with Home Assistant
 - [Home Assistant Configuration](https://github.com/tyzen9/homeassistant-config) - The high-level configuration behind my Home Assistant instance
-- [Adding Influx and Grafana](https://github.com/tyzen9/docker-ha-influxdb-grafana) - A Docker Stack for easily collecting long term HA statistics, and creating beautiful dashboards 
+- [Adding Influx and Grafana](https://github.com/tyzen9/docker-ha-influxdb-grafana) - A Docker stack for easily collecting long term HA statistics, and creating beautiful dashboards 
 
 # Servarr Seedbox
 Servarr is an ecosystem of open-source applications designed for automating and managing personal media libraries. 
@@ -31,7 +31,7 @@ I find this ecosystem fascinating, and have enjoyed experimenting with this tech
 > [!IMPORTANT]
 > Disclaimer: The projects below are intended for experimentation and educational purposes only. Use at your own risk.
 
-- [Wiki - Servarr Seedbox](https://github.com/tyzen9/docker-servarr-seedbox/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker Stack on a Linux host.
-- [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker Stack for Servarr services, and a local or remote seedbox behind an automated Private Internet Access ([PIA])(https://www.privateinternetaccess.com/) VPN service.
+- [Wiki - Servarr Seedbox](https://github.com/tyzen9/docker-servarr-seedbox/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker stack on a Linux host.
+- [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker stack for Servarr services, and a local or remote seedbox behind an automated Private Internet Access ([PIA])(https://www.privateinternetaccess.com/) VPN service.
 - [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A Docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
 - [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - A simple image that updates an established myanonamouse.net dynamic seedbox IP.
