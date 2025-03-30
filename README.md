@@ -8,12 +8,14 @@ Catchup with me on [LinkedIn](https://www.linkedin.com/in/steventheisen/), drop 
 Below, you will find links to help navigate my GitHub profile public repositories. 
 
 # Solution Engineering
-- [docker-plex-nvidia](https://github.com/tyzen9/docker-plex-nvidia) - A docker container for Plex that leverages an Nvidia GPU for transcoding
-- [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A docker container for setting up a Piwigo open source photo management website.
+I'm passionate about Docker Solution Engineering, where I take pre-built Docker containers and fine-tune them to solve specific problems efficiently. My projects showcase customized Docker stacks, optimized for unique use cases with streamlined configuration and deployment.
+
+- [docker-plex-nvidia](https://github.com/tyzen9/docker-plex-nvidia) - A Docker container for Plex that leverages an Nvidia GPU for transcoding
+- [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A Docker container for setting up a Piwigo open source photo management website.
 
 # Home Assistant
-Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. 
-It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
+Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
+
 - [Wiki - Home Assistant](https://github.com/tyzen9/homeassistant-config/wiki#-home-assistant-wiki) - Notes on my experience with Home Assistant
 - [Home Assistant Configuration](https://github.com/tyzen9/homeassistant-config) - The high-level configuration behind my Home Assistant instance
 - [Adding Influx and Grafana](https://github.com/tyzen9/docker-ha-influxdb-grafana) - A Docker Stack for easily collecting long term HA statistics, and creating beautiful dashboards 
@@ -31,5 +33,5 @@ I find this ecosystem fascinating, and have enjoyed experimenting with this tech
 
 - [Wiki - Servarr Seedbox](https://github.com/tyzen9/docker-servarr-seedbox/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker Stack on a Linux host.
 - [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker Stack for Servarr services, and a local or remote seedbox behind an automated Private Internet Access ([PIA])(https://www.privateinternetaccess.com/) VPN service.
-- [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
+- [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A Docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
 - [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - A simple image that updates an established myanonamouse.net dynamic seedbox IP.
