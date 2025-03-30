@@ -12,6 +12,8 @@ I'm passionate about Docker Solution Engineering, where I take pre-built Docker 
 
 - [docker-plex-nvidia](https://github.com/tyzen9/docker-plex-nvidia) - A Docker container for Plex that leverages an Nvidia GPU for transcoding
 - [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A Docker container for setting up a Piwigo open source photo management website.
+- [docker-diun](https://github.com/tyzen9/docker-diun) - A Docker container for receiving alerts when a docker image is updated
+- [docker-tautulli](https://github.com/tyzen9/docker-tautulli) - A Docker container for monitoring and tracking activity on a Plex server
 
 # Home Assistant
 Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
@@ -35,3 +37,6 @@ I find this ecosystem fascinating, and have enjoyed experimenting with this tech
 - [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker stack for Servarr services, and a local or remote seedbox behind an automated Private Internet Access ([PIA])(https://www.privateinternetaccess.com/) VPN service.
 - [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A Docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
 - [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - A simple image that updates an established myanonamouse.net dynamic seedbox IP.
+
+# Legacy Development
+- [JamTracker](https://github.com/tyzen9/jamtracker-flex) - A premiere Roller Derby scoreboard built around simplification
