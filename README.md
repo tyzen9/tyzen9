@@ -36,6 +36,7 @@ I find this ecosystem fascinating, and have enjoyed experimenting with this tech
 
 - [Wiki - Servarr Seedbox](https://github.com/tyzen9/docker-servarr-seedbox/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker stack on a Linux host.
 - [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker stack for Servarr services, and a local or remote seedbox behind an automated Private Internet Access ([PIA])(https://www.privateinternetaccess.com/) VPN service.
+- [docker-qbittorrent-lftp-mirror](https://github.com/tyzen9/docker-lftp-mirror) - A Docker project excellent for mirroring the contents of a source server to a target server using LFTP.
 - [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - A Docker project that watches for PIA forwarding port number changes, and applies those changes in realtime to a qBittorrent client.
 - [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - A simple image that updates an established myanonamouse.net dynamic seedbox IP.
 
