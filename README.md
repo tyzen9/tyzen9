@@ -8,7 +8,7 @@ Catchup with me on [LinkedIn](https://www.linkedin.com/in/steventheisen/), drop 
 Below, you will find links to help navigate my GitHub profile public repositories. 
 
 # Solution Engineering
-I'm passionate about Docker Solution Engineering, where I take pre-built Docker containers and fine-tune them to solve specific problems efficiently. My projects showcase customized Docker stacks, optimized for unique use cases with streamlined configuration and deployment.
+I'm passionate about Solution Engineering, where I often leverage existing Docker images to create containers or stacks to solve specific problems efficiently, with streamlined configuration and deployment.
 
 - [docker-plex-nvidia](https://github.com/tyzen9/docker-plex-nvidia) - A Docker container for Plex that leverages an Nvidia GPU for transcoding
 - [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A Docker container for setting up a Piwigo open source photo management website.
@@ -25,7 +25,7 @@ Home Assistant is free and open-source software for home automation designed to 
 
 # Servarr Seedbox
 Servarr is an ecosystem of open-source applications designed for automating and managing personal media libraries. 
-I find this ecosystem fascinating, and have enjoyed experimenting with this technology. 
+I find this fascinating, and have enjoyed experimenting with this technology. 
 
 > [!CAUTION]
 > Warning: Downloading media from torrents in some cases can be illegal and may result in copyright infringement charges. 
@@ -34,7 +34,9 @@ I find this ecosystem fascinating, and have enjoyed experimenting with this tech
 > [!IMPORTANT]
 > Disclaimer: The projects below are intended for experimentation and educational purposes only. Use at your own risk.
 
-- [Wiki - Servarr Seedbox](https://github.com/tyzen9/docker-servarr-seedbox/wiki) - A comprehensive Wiki on how to use the PIA Servarr Docker stack on a Linux host.
+Please review the [Servarr Seedbox Wiki](https://github.com/tyzen9/docker-servarr-seedbox/wiki) for guidance on starting a Servarr Seedbox Docker stack in minutes.
+
+## Projects
 - [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker stack for Servarr services, and a local or remote seedbox behind an a VPN service.
 - [docker-qbittorrent-lftp-mirror](https://github.com/tyzen9/docker-lftp-mirror) - Excellent for mirroring the contents of a source server using LFTP.
 - [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - Watches for a VPN forwarding port number to applys changes to a qBittorrent client.
