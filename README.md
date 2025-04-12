@@ -34,12 +34,10 @@ I find this fascinating, and have enjoyed experimenting with this technology.
 > [!IMPORTANT]
 > Disclaimer: The projects below are intended for experimentation and educational purposes only. Use at your own risk.
 
-| Project | Description| 
-| -- | -- |
-| [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) | A Docker stack for Servarr services, and a seedboxs behind an a VPN service. Please review the [Servarr Seedbox Wiki](https://github.com/tyzen9/docker-servarr-seedbox/wiki) for guidance on starting a Servarr Seedbox Docker stack in minutes. |
-| [docker-qbittorrent-lftp-mirror](https://github.com/tyzen9/docker-lftp-mirror) | Excellent for mirroring the contents of a source server using LFTP. |
-| [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) | Watches for a VPN forwarding port number to applys changes to a qBittorrent client.|
-| [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) | Keeps an established myanonamouse.net dynamic seedbox IP updated. |
+- [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker stack for Servarr services, and a local or remote seedbox behind an a VPN service. 
+- [docker-qbittorrent-lftp-mirror](https://github.com/tyzen9/docker-lftp-mirror) - Excellent for mirroring the contents of a source server using LFTP.
+- [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - Watches for a VPN forwarding port number to applys changes to a qBittorrent client.
+- [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - Keeps an established myanonamouse.net dynamic seedbox IP updated.
 
 # Legacy Development
 - [JamTracker](https://github.com/tyzen9/jamtracker-flex) - A premiere Roller Derby scoreboard built around simplification
