@@ -7,6 +7,13 @@ Catchup with me on [LinkedIn](https://www.linkedin.com/in/steventheisen/), drop 
 
 Below, you will find links to help navigate my GitHub profile public repositories. 
 
+# Home Assistant
+Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
+
+- [Wiki - Home Assistant](https://github.com/tyzen9/homeassistant-config/wiki#-home-assistant-wiki) - Notes on my experience with Home Assistant
+- [Home Assistant in Docker](https://github.com/tyzen9/docker-homeassistant) - Run Home Assistant and some basic essentials in Docker! 👏
+- [Home Assistant Configuration](https://github.com/tyzen9/homeassistant-config) - The high-level configuration behind my Home Assistant instance
+
 # Solution Engineering
 I'm passionate about Solution Engineering, where I often leverage existing Docker images to create containers or stacks to solve specific problems efficiently, with streamlined configuration and deployment.
 
@@ -15,13 +22,6 @@ I'm passionate about Solution Engineering, where I often leverage existing Docke
 - [docker-diun](https://github.com/tyzen9/docker-diun) - A Docker container for receiving alerts when a docker image is updated
 - [docker-tautulli](https://github.com/tyzen9/docker-tautulli) - A Docker container for monitoring and tracking activity on a Plex server
 - [docker-nginx-proxy-manager](https://github.com/tyzen9/docker-nginx-proxy-manager) - A Docker stack for Nginx Proxy Manager and a Postgresql database
-
-# Home Assistant
-Home Assistant is free and open-source software for home automation designed to be a central control system for smart home devices with a focus on local control and privacy. It is one of my most time consuming passions and hobby, and experience I am happy to share with the community.
-
-- [Wiki - Home Assistant](https://github.com/tyzen9/homeassistant-config/wiki#-home-assistant-wiki) - Notes on my experience with Home Assistant
-- [Home Assistant Configuration](https://github.com/tyzen9/homeassistant-config) - The high-level configuration behind my Home Assistant instance
-- [Adding Influx and Grafana](https://github.com/tyzen9/docker-ha-influxdb-grafana) - A Docker stack for easily collecting long term HA statistics, and creating beautiful dashboards 
 
 # Servarr Seedbox
 Servarr is an ecosystem of open-source applications designed for automating and managing personal media libraries. 
