@@ -21,7 +21,7 @@ I'm passionate about Solution Engineering, where I often leverage existing Docke
 - [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A Docker container for setting up a Piwigo open source photo management website.
 - [docker-diun](https://github.com/tyzen9/docker-diun) - A Docker container for receiving alerts when a docker image is updated
 - [docker-tautulli](https://github.com/tyzen9/docker-tautulli) - A Docker container for monitoring and tracking activity on a Plex server
-- [docker-nginx-proxy-manager](https://github.com/tyzen9/docker-nginx-proxy-manager) - A Docker stack for Nginx Proxy Manager and a Postgresql database
+- [docker-nginx-proxy-manager](https://github.com/tyzen9/docker-nginx-proxy-manager) - A Docker stack for Nginx Proxy Manager and the ability to use Cloudflare DDNS.
 
 # Servarr Seedbox
 Servarr is an ecosystem of open-source applications designed for automating and managing personal media libraries. 
