@@ -17,10 +17,9 @@ Home Assistant is free and open-source software for home automation designed to 
 # Solution Engineering
 I'm passionate about Solution Engineering, where I often leverage existing Docker images to create containers or stacks to solve specific problems efficiently, with streamlined configuration and deployment.
 
-- [docker-plex-nvidia](https://github.com/tyzen9/docker-plex-nvidia) - A Docker container for Plex that leverages an Nvidia GPU for transcoding
+- [docker-plex](https://github.com/tyzen9/docker-plex) - A Docker stack for Plex that leverages an Nvidia GPU for transcoding, and Tautulli for metrics.
 - [docker-piwigo](https://github.com/tyzen9/docker-piwigo) - A Docker container for setting up a Piwigo open source photo management website.
 - [docker-diun](https://github.com/tyzen9/docker-diun) - A Docker container for receiving alerts when a docker image is updated
-- [docker-tautulli](https://github.com/tyzen9/docker-tautulli) - A Docker container for monitoring and tracking activity on a Plex server
 - [docker-nginx-proxy-manager](https://github.com/tyzen9/docker-nginx-proxy-manager) - A Docker stack for Nginx Proxy Manager and the ability to use Cloudflare DDNS.
 
 # Servarr Seedbox
