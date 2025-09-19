@@ -34,7 +34,7 @@ I find this fascinating, and have enjoyed experimenting with this technology.
 > Disclaimer: The projects below are intended for experimentation and educational purposes only. Use at your own risk.
 
 - [docker-servarr-seedbox](https://github.com/tyzen9/docker-servarr-seedbox) - A Docker stack for Servarr services, and a local or remote seedbox behind an a VPN service. 
-- [docker-qbittorrent-lftp-mirror](https://github.com/tyzen9/docker-lftp-mirror) - Excellent for mirroring the contents of a source server using LFTP.
+- [docker-lftp-mirror](https://github.com/tyzen9/docker-lftp-mirror) - Excellent for mirroring the contents of a source server using LFTP.
 - [docker-qbittorrent-port-helper](https://github.com/tyzen9/docker-qbittorrent-port-helper) - Watches for a VPN forwarding port number to applys changes to a qBittorrent client.
 - [docker-myanonamouse-ip-helper](https://github.com/tyzen9/docker-myanonamouse-ip-helper) - Keeps an established myanonamouse.net dynamic seedbox IP updated.
 
